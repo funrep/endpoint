@@ -1,0 +1,9 @@
+{
+    "endpoint": "/users",
+    "method": "GET",
+    "value": [
+        { "name": "John",
+          "email": "john@fire.com",
+          "sport": "tennis" }
+    ]
+}
